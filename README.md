@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m pursuing my BTech in computer science and engineering.<br>👯 I’m looking for a part-time job <br>🤝 I’m looking for help with<br>🌱 I’m currently fullstack. <br>
+🔭 I’m pursuing my BTech in computer science and engineering.<br>👯 I’m looking for a part-time job <br>🌱 I’m currently learning fullstack. <br>
 
 
 ## 🌐 Socials:
